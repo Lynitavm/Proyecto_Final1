@@ -14,13 +14,6 @@ Trate de trabajar únicamente con información reportada por las IES al MEN a ni
 el archivo en mi Macbook algo sucedia y el peso del dataset era superior a 50 MB, github solo permite 25 MB máximo por archivo, así que continué cacharreando, hasta
 que decidí elegir la IES Universidad ECCI, en donde trabajo actualmente.
 
-CONCLUSIONES
-
-Puedo concluir que a pesar que estos datasets descargados van hasta el año 2020, la cantidad de matriculados ha disminuido considerablemente, los graduados se mantienen estable, pero es necesario que las IES revisen diversas estrategias para hacer los programas más interesantes para los aspirantes, la pandemia permitió que se aprendieran nuevas maneras de aprender y ahora los estudiantes son más visuales, tienen ayuda de las IA, haciendo que las metodologías de aprendizaje tradicionales realicen cambios drásticos en las formas de enseñar y atraer a los aspirantes. Igualmente aún se ve la diferencia de graduados y matriculados entre hombres y mujeres.
-
-
-Procedú hacer la limpieza es curioso como el nombre del programa, la ciudad, el género podían escribirlos hasta de 5 maneras diferentes, con tildes, sin tildes, en mayusculas, 
-minusculas, entre otros.
 
 ![image](https://github.com/Lynitavm/Proyecto_Final1/assets/90294710/1302cbc2-56f6-4cc1-a6cd-cd2d862576e1)
 
@@ -28,3 +21,11 @@ minusculas, entre otros.
 El siguiente dataset no estaba tan grande, pero igual lo minimice a la selección de la IES Universidad ECCI
 ![image](https://github.com/Lynitavm/Proyecto_Final1/assets/90294710/cd8ea0ac-8b52-41c4-89a8-f3e6056ad836)
 
+
+**CONCLUSIONES**
+
+Puedo concluir que a pesar que estos datasets descargados van hasta el año 2020, la cantidad de matriculados ha disminuido considerablemente, los graduados se mantienen estable, pero es necesario que las IES revisen diversas estrategias para hacer los programas más interesantes para los aspirantes, la pandemia permitió que se aprendieran nuevas maneras de aprender y ahora los estudiantes son más visuales, tienen ayuda de las IA, haciendo que las metodologías de aprendizaje tradicionales realicen cambios drásticos en las formas de enseñar y atraer a los aspirantes. Igualmente aún se ve la diferencia de graduados y matriculados entre hombres y mujeres.
+
+
+Procedi hacer la limpieza es curioso como el nombre del programa, la ciudad, el género podían escribirlos hasta de 5 maneras diferentes, con tildes, sin tildes, en mayusculas, 
+minusculas, entre otros.
